@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "wawa-smart-store",
+  "private_key_id": "82072f7ce73f8d1265c010a73bb85013c4f1ec85",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC9/XwHGSLWZxzO\nREVlMaMo076bB6QAKL7vg5UCXxFiNdZYoxDw4Jh7MUKZEugEIJmPoD3gb0TNK7pT\nzDflaouMqr9ZLg7wf7P6dStpiAeJwyRuP0IK5KAshWWLcJWTmzW0/EFIHSPvHQZT\nffDXJdf0mDnL26gCgYpbQ3+OeeUsFyfCGwAkYP6lkJy+mlxcn6hDi0jo8VkKCeZr\nOseu5Mxd6BvRRrCTBcmEQmliKl+3WQJgcDxHvkHyHgkMYIrIOPSPAbVABAaszbk9\n/xMcLh0a8c0m2TYHAP105USS3SiYMMeM0ZUyLK59XwmBtEUKb60hAXXpbtmsg2aP\n9zu+swwfAgMBAAECggEABWFoYcsUcX36Et1cGcGOHVnhzAIrYtXEkoPndGm81Esy\nBtCXajryFosOl8cxSuyhbK/dEL4V9LmITVc7PgQGb7VmNeBYC/eR4UXwNMzlacFd\nBsJD3Isc/iXI+mn10nhSzQ1Xy/MHUX5A75xhdbZcp1CoUl2mJGwGvw7qTd6l3tm8\nhwqgDsPSTaSvtnttj/4MmbGUH7pkuVYH/o0b0YcRnhgZyqDQlDP5+8JoDqrrHAtv\nlY06JANj1an0Q5XCt1MbKh+X5iX6qikEs0gFXknhwaJSLGYdzD2b7eNxkP+z/jch\n/yLrJ9AbAidCOGx9IBQTNZ8LWcfCt54H7Gu/tvDQAQKBgQDjvnx7Me0qoPhFIbh5\ntG7GzkQpmwRO/cWMKm4FwYfOvfSOFVvZa+VyHcRclSrDllXzWoU+D8AZ/7VTdbLa\nYcXXoSIUSpXY8p9qAvHX/d31zVaaVBos74V3VGcufa/FmtJ4khJuJuiW2ovynlc2\nTNulMHQSe0RNKBVpAsATYfnf4QKBgQDVj9+/PPOuTHVlhUbYQRJ0QJBAOkSzduvk\np9HyqsIS+0zy3/i+L1NZpMiO3AlLuGKO4wwjkJv4WnAq5L55oTuY5cTd9bkZ2JHG\n6dlHfVAltvmR5XcCJVuAIJQ6/LnwhKlQUlg3OA6813o11Bfg3oQhFcI4SDhF+3+1\nfUK5pXpr/wKBgQCseTYMlmLmRcG/mSn8AYljRhKY76zzpXxWCkwIT+hpybHLaKGG\npw+8vI5ZDx6zwMaW5ZbCyWrSRbUs35XzjNgn1P/aHiIdiqDvyAsfaEMQQ9GyTr8E\nCOEq3eDGdKkJHZcHeJg8k3rRw/D4bLHfjZVKJMfCt1eilxifzlVoWGrEAQKBgAEZ\n9ttzowYZGtnlMBJZc5Dp7FSIeGY8jMbnHqwTuWCDr0fpY80HTXS+5tHlzJ55WvjF\nrwBX9JX5UW7HMzxJWpdVSAilBcleVpIiDp7RxKINKYhZGJ4IN0qX4GvVddgJtx3U\n7uOKBHlw2w6AA4eDXkcVZ6UGqlOiEmyLMtbmRZVdAoGBALUABYMv8G5NQD+Jqqu1\nYwy5AIGQhJYX9QRufu3MhmCt9OS69+oZSjULoSc4fXqkfSsx3/NVwobkIlyvx5M3\nVZu5q6X7qkgAjmhpJdM9XiqC0z5KeX3wSuk4HTLDa7PjjzBVSmnYp3Zwfge5bhKI\n/oCDO4vsImamOhNvqV2cCPZK\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloud-storage@wawa-smart-store.iam.gserviceaccount.com",
+  "client_id": "110671246752555196501",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloud-storage%40wawa-smart-store.iam.gserviceaccount.com"
+}
